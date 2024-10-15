@@ -5,11 +5,13 @@ There are several ways you can contact the B4RN Grindleton & Sawley volunteer gr
 * By email at [info@b4rngrindletonsawley.uk](mailto:info@b4rngrindletonsawley.uk) (clicking the link should open your email application)
 * Using Facebook Messager via our official [Facebook Page](https://www.facebook.com/b4rngrindletonsawley)
 * In person - simply speak to one of the volunteers listed below;
- * A
- * B
- * C
- * D
- * E
+	* Lorraine and John Halley
+	* Peter Schofield
+	* Rob Veitch
+	* Claire and Graham Cowking
+	* Stuart Aspin
+	* Tim Bird
+	* Jonathan Thomson
 
 ## Official B4RN Contact Details
 If you have a question which is not covered by our site or you want to contact B4RN directly, you can do so by;

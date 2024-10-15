@@ -3,16 +3,30 @@ site_description: "A support site run by volunteers of the Grindleton and Sawley
 site_url: https://b4rngrindletonsawley.uk
 nav:
   - Home: index.md
-  - News: news/
+  - News:
+    - news/index.md
   - About: about.md
   - Investing: investing.md
   - FAQs: faqs.md
   - Contact Us: contact.md
+  - Our Facebook Page: https://facebook.com/b4rngrindletonsawley
   - Get B4RN: https://b4rn.org.uk/get-b4rn/
-theme: material
+theme:
+  name: material
+  features:
+    - navigation.indexes
 plugins:
   - search
-  - blogging:
-      dirs: # The directories to be included
-        - news
-      size: 5
+  - blog:
+      pagination_per_page: 5
+      blog_dir: news
+      blog_toc: true
+      post_date_format: full
+      post_url_date_format: yyyy-MM-dd
+      post_url_format: "{date}/{slug}"
+      archive_url_date_format: yyyy-MM
+      archive_url_format: "archive/{date}"
+      post_slugify: !!python/object/apply:pymdownx.slugs.slugify
+         kwds:
+           case: lower
+      post_slugify_separator: _

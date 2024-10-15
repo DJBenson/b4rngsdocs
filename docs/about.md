@@ -6,3 +6,18 @@ The service is run by volunteers and local communities, who help install the net
 
 You can find out more about B4RN via their website at [b4rn.org.uk](https://b4rn.org.uk/).
 ## About the Grindleton and Sawley Volunteer Group
+![image](img/b4rngsvolunteers.jpg)
+
+The B4RN Grindleton & Sawley project is made up of a small but extremely dedicated team of local voluteers from both Grindleton and Sawley. Between them they have achieved a huge amount of progress in contacting local land owners to seek their permission for B4RN to lay they cables on their land as well as driving the project forwards by spreading the word about B4RN and the benefits it will bring to the village.
+
+The volunteer group comprises;
+
+* Lorraine and John Halley
+* Peter Schofield
+* Rob Veitch
+* Claire and Graham Cowking
+* Stuart Aspin
+* Tim Bird
+* Jonathan Thomson
+
+Many more people have been involved along the way who aren't named here but their contribution is greatly appreciated.
