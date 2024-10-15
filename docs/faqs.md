@@ -1,8 +1,8 @@
 # FAQs: Frequently Asked Questions
 
-We have collated answers to some of the most popular questions we get - if you have a question which isn't listed here then feel free to [Contact us](contact/) and we'll do our best to help. This guide is collated and supported by B4RN volunteers and not B4RN themselves.
+We have collated answers to some of the most popular questions we get - if you have a question which isn't listed here then feel free to [Contact us](../contact/) and we'll do our best to help. This guide is collated and supported by B4RN volunteers and not B4RN themselves.
 
-B4RN also have an official FAQ on their website [here](https://b4rn.org.uk/support/faqs). Please do check whether your question has already been answered by either of the FAQs and if not, you are more than welcome to [Contact us](contact/).
+B4RN also have an official FAQ on their website [here](https://b4rn.org.uk/support/faqs). Please do check whether your question has already been answered by either of the FAQs and if not, you are more than welcome to [Contact us](../contact/).
 
 ## Why do I need B4RN?
 There are many reasons why B4RN is a good choice for your broadband service and we've highlighted a couple of them as part of this FAQ;
@@ -101,7 +101,7 @@ All of the above are free, easy to set up and you can check your email on the we
 
 ## Can I move my email from my current provider to one of the providers listed above?
 
-Yes - this is possible using a service such as [ImapSync](https://imapsync.lamiral.info/X/) but it's beyond the scope of this FAQ. We can help you with this process if you want to move all your email from your current provider to a new one (for example from Sky to GMail). [Contact us](contact/) for further information.
+Yes - this is possible using a service such as [ImapSync](https://imapsync.lamiral.info/X/) but it's beyond the scope of this FAQ. We can help you with this process if you want to move all your email from your current provider to a new one (for example from Sky to GMail). [Contact us](../contact/) for further information.
 
 [Back to Top](#faqs-frequently-asked-questions)
 
@@ -119,7 +119,7 @@ If you have the newer black discs, they will only work with the BT HomeHub route
 
 ## I have a mesh system / repeater / extender I bought myself - will these still work?
 
-Most devices from other companies are made to work with any internet provider. They can either plug into the B4RN router using an Ethernet cable (a common internet cable) or connect to the B4RN router's Wi-Fi to boost the signal. If you're unsure if your equipment will work, feel free to [Contact us](contact/), and we’ll be happy to help.
+Most devices from other companies are made to work with any internet provider. They can either plug into the B4RN router using an Ethernet cable (a common internet cable) or connect to the B4RN router's Wi-Fi to boost the signal. If you're unsure if your equipment will work, feel free to [Contact us](../contact/), and we’ll be happy to help.
 
 [Back to Top](#faqs-frequently-asked-questions)
 

@@ -17,6 +17,7 @@ theme:
     - navigation.indexes
 plugins:
   - search
+  - social
   - blog:
       pagination_per_page: 5
       blog_dir: news
