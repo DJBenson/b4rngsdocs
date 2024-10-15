@@ -5,7 +5,7 @@ features:
   tags:
 nav:
   - Home: index.md
-  - News: /news/
+  - News: news/
   - About: about.md
   - Investing: investing.md
   - FAQs: faqs.md
