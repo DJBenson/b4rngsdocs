@@ -49,6 +49,18 @@ B4RN provides a “full fiber” service, which means it brings the internet dir
 
 [Back to Top](#faqs-frequently-asked-questions)
 
+## How fast will it be?
+
+B4RN's standard offering is 1 gigabit symmertical (this means the speed is the same both downloading and uploading at the same time). The expected speed is around 900Mbps (which is over 10 times faster than the fastest connections available in the villages) which will allow you to download files, stream TV, upload large files and play online games all at the same time with no slow-down.
+
+[Back to Top](#faqs-frequently-asked-questions)
+
+## Can it go faster? Is it future-proof?
+
+Yes and yes. As B4RN is built from the ground up on top of fiber optic technology, the bandwidth is virtually limitless. They offer a 10 gigabit connection for businesses (or anybody that wants to pay the premium for the additional speed) and as the network grows, the ability to increase speeds is built right into the network.
+
+[Back to Top](#faqs-frequently-asked-questions)
+
 ## What equipment gets installed at my property?
 
 B4RN will install a small box on the outside wall of your house. This box is known as a CCE – Customer Connection Enclosure, it's basically the point where your home connects to the B4RN network. They will drill a small hole in the wall to connect this box to the inside of your home.
