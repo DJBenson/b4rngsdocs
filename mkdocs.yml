@@ -13,8 +13,37 @@ nav:
   - Get B4RN: https://b4rn.org.uk/get-b4rn/
 theme:
   name: material
+  icon:
+    logo: fontawesome/brands/chrome
   features:
     - navigation.indexes
+    - navigation.instant
+    - navigation.instant.progress
+  palette:
+
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default 
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: red
+      accent: red
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
 plugins:
   - search
   - social
@@ -27,7 +56,18 @@ plugins:
       post_url_format: "{date}/{slug}"
       archive_url_date_format: yyyy-MM
       archive_url_format: "archive/{date}"
+      archive_date_format: MMMM yyyy
       post_slugify: !!python/object/apply:pymdownx.slugs.slugify
          kwds:
            case: lower
       post_slugify_separator: _
+extra:
+  social:
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/b4rngrindletonsawley
+      name: Facebook
+    - icon: material/email
+      link: "mailto:info@b4rngrindletonsawley.uk"
+
+markdown_extensions:
+  - attr_list

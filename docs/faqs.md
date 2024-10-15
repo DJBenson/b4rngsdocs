@@ -1,8 +1,8 @@
 # FAQs: Frequently Asked Questions
 
-We have collated answers to some of the most popular questions we get - if you have a question which isn't listed here then feel free to [Contact us](../contact/) and we'll do our best to help. This guide is collated and supported by B4RN volunteers and not B4RN themselves.
+We have collated answers to some of the most popular questions we get - if you have a question which isn't listed here then feel free to [Contact us](contact.md) and we'll do our best to help. This guide is collated and supported by B4RN volunteers and not B4RN themselves.
 
-B4RN also have an official FAQ on their website [here](https://b4rn.org.uk/support/faqs). Please do check whether your question has already been answered by either of the FAQs and if not, you are more than welcome to [Contact us](../contact/).
+B4RN also have an official FAQ on their website [here](https://b4rn.org.uk/support/faqs). Please do check whether your question has already been answered by either of the FAQs and if not, you are more than welcome to [Contact us](contact.md).
 
 ## Why do I need B4RN?
 There are many reasons why B4RN is a good choice for your broadband service and we've highlighted a couple of them as part of this FAQ;
@@ -51,12 +51,11 @@ B4RN provides a “full fiber” service, which means it brings the internet dir
 
 ## What equipment gets installed at my property?
 
-B4RN will install a small box on the outside wall of your house. This box has different names, but it's basically the point where your home connects to the B4RN network. They will drill a small hole in the wall to connect this box to the inside of your home.
-
+B4RN will install a small box on the outside wall of your house. This box is known as a CCE – Customer Connection Enclosure, it's basically the point where your home connects to the B4RN network. They will drill a small hole in the wall to connect this box to the inside of your home.
 
 ![image](https://gist.github.com/user-attachments/assets/4ece1591-7f00-4b20-97e8-adcfbe5f7c16)
 
-Inside your home, a socket is installed, similar to a "master socket," where you plug in the B4RN router. This router then provides you with a WiFi signal and has sockets on the back for plugging in other devices like computers.
+Inside your home, a socket is installed, similar to a "master socket" (known as a FWO – Fibre Wall Outlet)  where you plug in the B4RN router. This router then provides you with a WiFi signal and has sockets on the back for plugging in other devices like computers.
 
 ![image](https://gist.github.com/user-attachments/assets/c5e1bc50-5d45-4149-b891-0a926863fd1a)
 
@@ -101,7 +100,21 @@ All of the above are free, easy to set up and you can check your email on the we
 
 ## Can I move my email from my current provider to one of the providers listed above?
 
-Yes - this is possible using a service such as [ImapSync](https://imapsync.lamiral.info/X/) but it's beyond the scope of this FAQ. We can help you with this process if you want to move all your email from your current provider to a new one (for example from Sky to GMail). [Contact us](../contact/) for further information.
+Yes - this is possible using a service such as [ImapSync](https://imapsync.lamiral.info/X/) but it's beyond the scope of this FAQ. We can help you with this process if you want to move all your email from your current provider to a new one (for example from Sky to GMail). [Contact us](contact.md) for further information.
+
+[Back to Top](#faqs-frequently-asked-questions)
+
+## What about telephone? Can I have a landline?
+
+Unlike legacy providers who currently provide services to Grindleton and Sawley, B4RN's network is full fiber, which means there is no copper telephone line. That doesn't mean you cannot have a "landline" telephone number though. It is possible to transmit voice over the fiber optic network using a technology called VoIP (Voice Over Internet Protocol). A small adapter connects your existing telephone to the B4RN network and from that point onwards the phone works like it always did. B4RN have their own service called "B4RN Voice" but there are other options available should you wish to explore options. You can find out more about B4RN Voice [here](https://b4rn.org.uk/support/b4rn-voice-faqs).
+
+[Back to Top](#faqs-frequently-asked-questions)
+
+## Can I keep my number?
+
+If you choose B4RN Voice then yes - there is a small cost and some things you must do to ensure the transfer goes smootly. You can find out more about B4RN Voice [here](https://b4rn.org.uk/support/b4rn-voice-faqs).
+
+For other providers, it may be possible to keep your number. Double-check with the provider before you switch.
 
 [Back to Top](#faqs-frequently-asked-questions)
 
@@ -119,7 +132,9 @@ If you have the newer black discs, they will only work with the BT HomeHub route
 
 ## I have a mesh system / repeater / extender I bought myself - will these still work?
 
-Most devices from other companies are made to work with any internet provider. They can either plug into the B4RN router using an Ethernet cable (a common internet cable) or connect to the B4RN router's Wi-Fi to boost the signal. If you're unsure if your equipment will work, feel free to [Contact us](../contact/), and we’ll be happy to help.
+Most devices from other companies are made to work with any internet provider. They can either plug into the B4RN router using an Ethernet cable (a common internet cable) or connect to the B4RN router's Wi-Fi to boost the signal. If you're unsure if your equipment will work, feel free to [Contact us](contact.md), and we’ll be happy to help.
+
+It's important that any third party equipment, including mesh systems, are set up correctly or there can be issues. We will provide support for such setups wherever possible.
 
 [Back to Top](#faqs-frequently-asked-questions)
 

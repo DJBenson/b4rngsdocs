@@ -5,4 +5,4 @@ Welcome to the B4RN Grindleton & Sawley Support Site. This is a volunteer-led pr
 
 This site is neither operated nor endorsed by B4RN but our volunteers work closely with B4RN to ensure we provide accurate and relevant information to potential B4RN customers and/or investors.
 
-Please feel free to browse the site and if you have any questions, you can [contact](contact/) us for further information.
+Please feel free to browse the site and if you have any questions, you can [contact](contact.md) us for further information.
