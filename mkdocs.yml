@@ -1,0 +1,20 @@
+site_name: "B4RN: Grindleton & Sawley Project Site"
+site_description: "A support site run by volunteers of the Grindleton and Sawley project."
+site_url: https://b4rngrindletonsawley.uk
+features:
+  tags:
+nav:
+  - Home: index.md
+  - News: /news/
+  - About: about.md
+  - Investing: investing.md
+  - FAQs: faqs.md
+  - Contact Us: contact.md
+  - Get B4RN: https://b4rn.org.uk/get-b4rn/
+theme: material
+plugins:
+  - search
+  - blogging:
+      dirs: # The directories to be included
+        - news
+      size: 5
