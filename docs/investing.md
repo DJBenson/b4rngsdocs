@@ -9,4 +9,4 @@ Key benefits include:
 * Social impact: Enhanced internet connectivity boosts local businesses, farms, education, and overall quality of life.
 * Affordable entry: Minimum investment of £100, helping fund essential projects.
 
-[Download investment brochure](https://b4rn.org.uk/assets/documents/documents/investment-booklet.pdf){ .md-button } [Download share prospectus](https://b4rn.org.uk/assets/documents/i-isp-share-prospectus.pdf){ .md-button }
+For more information plesse visit the [B4RN](https://www.b4rn.org.uk) website.
