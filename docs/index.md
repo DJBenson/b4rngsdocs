@@ -1,5 +1,4 @@
 # Grindleton & Sawley Project Hub
-![image](img/br4ngslogo.jpg)
 
 [Important Announcement](news/posts/2.md){ .md-button }
 
