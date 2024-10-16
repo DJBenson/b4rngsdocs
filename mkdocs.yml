@@ -72,8 +72,6 @@ extra:
     - icon: fontawesome/brands/facebook
       link: https://facebook.com/b4rngrindletonsawley
       name: Facebook
-    - icon: material/email
-      link: "mailto:info@b4rngrindletonsawley.uk"
 
 markdown_extensions:
   - attr_list
