@@ -12,8 +12,9 @@ nav:
     - Installation: installation.md
     - FAQs: faqs.md
   - Contact Us: contact.md
-  - Our Facebook Page: https://facebook.com/b4rngrindletonsawley
-  - Get B4RN: https://b4rn.org.uk/get-b4rn/
+  - External Links:
+    - Our Facebook Page: https://facebook.com/b4rngrindletonsawley
+    - B4RN Website: https://b4rn.org.uk/get-b4rn/
 
 theme:
   name: material
