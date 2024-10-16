@@ -43,7 +43,7 @@ In short, upgrading to a faster service like B4RN’s gigabit broadband will ens
 
 Some internet providers use tricky language when they say they offer "fiber optic broadband." In places like Grindleton and Sawley, fiber optic cables bring the internet to green boxes (street cabinets) in the village. However, from those boxes to your home, the internet travels through old copper wires or overhead poles. This part of the network slows down your internet speed. This setup is called "fiber to the cabinet" (FTTC).
 
-<img width="245" alt="image" src="https://gist.github.com/user-attachments/assets/41999661-e580-4f59-889b-92cd4972846b">
+![image](img/btstreetcabinet.png)
 
 B4RN provides a “full fiber” service, which means it brings the internet directly into your home using special fiber optic cables. Unlike other providers that still use older copper phone lines, this method avoids common problems like slow speeds. This type of connection is often called "fiber to the home" (FTTH) or "fiber to the premise" (FTTP).
 
@@ -52,6 +52,8 @@ B4RN provides a “full fiber” service, which means it brings the internet dir
 ## How fast will it be?
 
 B4RN's standard offering is 1 gigabit symmertical (this means the speed is the same both downloading and uploading at the same time). The expected speed is around 900Mbps (which is over 10 times faster than the fastest connections available in the villages) which will allow you to download files, stream TV, upload large files and play online games all at the same time with no slow-down.
+
+![image](img/speedtest.png)
 
 [Back to Top](#faqs-frequently-asked-questions)
 
@@ -65,17 +67,17 @@ Yes and yes. As B4RN is built from the ground up on top of fiber optic technolog
 
 B4RN will install a small box on the outside wall of your house. This box is known as a CCE – Customer Connection Enclosure, it's basically the point where your home connects to the B4RN network. They will drill a small hole in the wall to connect this box to the inside of your home.
 
-![image](https://gist.github.com/user-attachments/assets/4ece1591-7f00-4b20-97e8-adcfbe5f7c16)
+![image](img/cce.png)
 
 Inside your home, a socket is installed, similar to a "master socket" (known as a FWO – Fibre Wall Outlet)  where you plug in the B4RN router. This router then provides you with a WiFi signal and has sockets on the back for plugging in other devices like computers.
 
-![image](https://gist.github.com/user-attachments/assets/c5e1bc50-5d45-4149-b891-0a926863fd1a)
-
-<img src="https://gist.github.com/user-attachments/assets/8d1293f9-6253-4e72-b6c2-9b08209ab563" alt="Description" width="300">
+![image](img/fwo.png) ![image](img/router.png)
 
 The B4RN installers will work with you to place this equipment in the best spot, making sure to minimize any disruption.
 
 NOTE: Images are for illustrative purposes only and the supplied equipment may differ.
+
+[More About The Installation Process](installation.md){ .md-button }
 
 [Back to Top](#faqs-frequently-asked-questions)
 
@@ -118,7 +120,17 @@ Yes - this is possible using a service such as [ImapSync](https://imapsync.lamir
 
 ## What about telephone? Can I have a landline?
 
-Unlike legacy providers who currently provide services to Grindleton and Sawley, B4RN's network is full fiber, which means there is no copper telephone line. That doesn't mean you cannot have a "landline" telephone number though. It is possible to transmit voice over the fiber optic network using a technology called VoIP (Voice Over Internet Protocol). A small adapter connects your existing telephone to the B4RN network and from that point onwards the phone works like it always did. B4RN have their own service called "B4RN Voice" but there are other options available should you wish to explore options. You can find out more about B4RN Voice [here](https://b4rn.org.uk/support/b4rn-voice-faqs).
+Unlike legacy providers who currently provide services to Grindleton and Sawley, B4RN's network is full fiber, which means there is no copper telephone line. That doesn't mean you cannot have a "landline" telephone number though. It is possible to transmit voice over the fiber optic network using a technology called VoIP (Voice Over Internet Protocol). A small adapter connects your existing telephone to the B4RN router and from that point onwards the phone works like it always did. B4RN have their own service called "B4RN Voice" but there are other options available should you wish to explore options. You can find out more about B4RN Voice [here](https://b4rn.org.uk/support/b4rn-voice-faqs).
+
+![image](img/b4rnroutervoip.png)
+
+The image above shows the B4RN router, the green ports are where the telephone plugs in using a provided adapter.
+
+[B4RN Voice Information Sheet](https://b4rn.org.uk/assets/documents/documents/b4rn-information-sheet---voip.pdf){ .md-button }
+
+[B4RN Voice Quick Start Guide](https://b4rn.org.uk/assets/documents/documents/b4rn-voice-quick-start---voip.pdf){ .md-button }
+
+[B4RN Voice Mobile App Guide](https://b4rn.org.uk/assets/documents/b4rn-voice-mobile-app---user-guide-v1.0.pdf){ .md-button }
 
 [Back to Top](#faqs-frequently-asked-questions)
 
@@ -139,6 +151,8 @@ Yes, you can use Sky's TV services without having Sky Broadband. Before switchin
 ## I have BT mesh "discs" - will these still work?
 
 If you have the newer black discs, they will only work with the BT HomeHub router. The older white discs are more flexible—they can be used with any internet provider and connect easily to the B4RN router using a standard Ethernet cable. The reason the newer black discs are limited is that they are designed to work as part of a system with the BT router, so they can't be used with other routers.
+
+![image](img/btmeshblack.png) ![image](img/btmeshwhite.png)
 
 [Back to Top](#faqs-frequently-asked-questions)
 
