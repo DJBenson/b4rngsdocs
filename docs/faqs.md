@@ -182,4 +182,6 @@ The example shown below ([available from Amazon.co.uk](https://www.amazon.co.uk/
 
 ![image](img/ups1.jpg) ![image](img/ups2.jpg)
 
+If you also opt for the optional [B4RN Voice](https://b4rn.org.uk/support/b4rn-voice-faqs) service, this device will also allow you to make and receive calls during the powercut.
+
 [Back to Top](#faqs-frequently-asked-questions)
