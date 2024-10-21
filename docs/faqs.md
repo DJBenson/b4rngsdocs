@@ -55,6 +55,8 @@ B4RN's standard offering is 1 gigabit symmertical (this means the speed is the s
 
 ![image](img/speedtest.png)
 
+As with all broadband providers, the best speeds are achieved when connected by ethernet to the router. Wireless speeds will be subject to environmental conditions such as placement of the router, distance from the router to your device and how many other wireless networks are in your locality.
+
 [Back to Top](#faqs-frequently-asked-questions)
 
 ## Can it go faster? Is it future-proof?
