@@ -174,3 +174,12 @@ The short answer is "probably". It depends on how the equipment connects but if 
 Yes - absolutely!
 
 [Back to Top](#faqs-frequently-asked-questions)
+
+## Will my internet work during a powercut?
+By default, no, but this is no different to any other provider. The equipment used to connect to the network (the router) requires power, and during a powercut the router is off along with the rest of your house. There are however devices called UPSs (Uninterruptable Power Supplies) which are basically battery powered devices which you can connect the router to which will keep it alive for a short time during a power cut. There are a huge number of different UPS devices on the market, some of which are designed to keep more equipment (such as desktop computers) running during a powercut, others are designed just for broadband routers - an example of one of these is shown below and is available online for a small cost.
+
+The example shown below ([available from Amazon.co.uk](https://www.amazon.co.uk/Eaton-protect-Internet-assistants-controllers-White/dp/B092TG9M7C/)) plugs into the router and the power plugs into the UPS. In the case of a powercut, the battery keeps the router (and as such your internet) working for a period of time, hopefully enough time to see you through the powercut.
+
+![image](img/ups1.jpg) ![image](img/ups2.jpg)
+
+[Back to Top](#faqs-frequently-asked-questions)
