@@ -1,6 +1,6 @@
 # Grindleton & Sawley Project Hub
 
-[Important Announcement](news/posts/2.md){ .md-button }
+[Grindleton and Sawley Project Enters New Phase](news/posts/4.md){ .md-button }
 
 Please read our important announcement about the Grindleton and Sawley project [here](news/posts/2.md). We **NEED** your support to deliver ultra-fast, ultra-reliable broadband to the area. Bolton-by-Bowland have achieved it so there's no reason we can't do the same.
 ## Welcome
