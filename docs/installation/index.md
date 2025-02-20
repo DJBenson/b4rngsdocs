@@ -3,9 +3,9 @@ One of the most frequent questions we get asked is "what will the impact on my p
 
 ## Customer Testimonials
 
-[Equipment Install (Grindleton Pavilion)](docs/testimonials/2.md)
+[Equipment Install (Grindleton Pavilion)](/testimonials/2.md)
 
-[Testimonial (Grindleton Resident)](docs/testimonials/1.md)
+[Testimonial (Grindleton Resident)](/testimonials/1.md)
 
 ## Further Reading
 Our [FAQ](faq.md) section has more questions about the install, the equipment used and what goes where. If you have any more questions then feel free to [get in touch](contact.md) and we'll do our best to answer.
