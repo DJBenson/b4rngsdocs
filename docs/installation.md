@@ -9,5 +9,7 @@ The garden dig happened almost as if by magic from the cut in the lawn & flower 
 
 So, to reassure anyone who is nervous about the process- it’s painless!
 
+![Image title](img/testimonials/1/IMG_4475.jpg){ width="300" }
+
 ## Further Reading
 Our [FAQ](faq.md) section has more questions about the install, the equipment used and what goes where. If you have any more questions then feel free to [get in touch](contact.md) and we'll do our best to answer.
