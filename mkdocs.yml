@@ -9,7 +9,7 @@ nav:
   - About: about.md
   - Investing: investing.md
   - Useful Info:
-    - Installation: installation.md
+    - Installation: /installation/
     - FAQs: faqs.md
   - Contact Us: contact.md
   - External Links:
