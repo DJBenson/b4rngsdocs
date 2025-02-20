@@ -4,6 +4,7 @@ One of the most frequent questions we get asked is "what will the impact on my p
 ## Customer Testimonials
 
 [Eqipment Install (Grindleton Pavilion)](docs/testimonials/2.md)
+
 [Testimonial (Grindleton Resident)](docs/testimonials/1.md)
 
 ## Further Reading
