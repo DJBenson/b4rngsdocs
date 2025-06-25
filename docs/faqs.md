@@ -75,7 +75,7 @@ Inside your home, a socket is installed, similar to a "master socket" (known as 
 
 Grindleton and Sawley are one of the first B4RN deployments to make use of brand new Nokia XS-2426G-B routers.
 
-![image](img/fwo.png) ![image](img/nokia_router.jpg){ width="150" }
+![image](img/fwo.png) ![image](img/nokia_router.jpg){ width="100" }
 
 The B4RN installers will work with you to place this equipment in the best spot, making sure to minimize any disruption.
 
