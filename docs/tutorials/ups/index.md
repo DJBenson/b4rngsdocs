@@ -16,4 +16,4 @@ The below is based on personal experience of one device, others are available (s
 
 * Currently on offer with 35% off making it £42.89
 
-| ![Image title](img/1.jpg){ width="600" } | ![Image title](img/2.jpg){ width="600" } |
+| ![Image title](img/1.jpg){ width="300" } | ![Image title](img/2.jpg){ width="300" } |
