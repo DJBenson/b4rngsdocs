@@ -17,11 +17,13 @@ The below is based on personal experience of one device, others are available (s
 * Currently on offer with 35% off making it £42.89
 
 Click on the images below to enlage.
+
 | ![Image title](img/1.jpg){ width="300" } | ![Image title](img/2.jpg){ width="300" } |
 
 ### Other options (not tested by the author but work the same as the above)
 
 | Item | Store | Price |
+| ---- | ----- | ----- |
 | APC Back-UPS Connect | [Amazon.co.uk](https://amzn.to/45G9h98) | £59.33 |
 | Eaton 3S Mini UPS | [Amazon.co.uk](https://amzn.to/4lgwpiW) | £53.99 |
 | Mini UPS Portable | [Amazon.co.uk](https://amzn.to/3T5iTTh) | £38.99 |
