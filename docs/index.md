@@ -5,6 +5,4 @@ Welcome to the Grindleton & Sawley Project Hub. This is a volunteer-led project 
 
 Please feel free to browse the site and if you have any questions, you can [contact](contact.md) us for further information.
 
-[Advance Notice of works on the Grindleton and Sawley project](news/posts/5.md){ .md-button }
-
-Please read our important announcement about the Grindleton and Sawley project [here](news/posts/4.md). After months of hard work and hundreds of hours of effort, the Grindleton and Sawley project is entering a new phase and ultra-fast, ultra-reliable broadband IS coming very soon.
+[Grindleton is live!](news/posts/7.md){ .md-button }
