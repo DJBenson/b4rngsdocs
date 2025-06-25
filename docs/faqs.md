@@ -73,13 +73,15 @@ B4RN will install a small box on the outside wall of your house. This box is kno
 
 Inside your home, a socket is installed, similar to a "master socket" (known as a FWO – Fibre Wall Outlet)  where you plug in the B4RN router. This router then provides you with a WiFi signal and has sockets on the back for plugging in other devices like computers.
 
+Grindleton and Sawley are one of the first B4RN deployments to make use of brand new Nokia XS-2426G-B routers.
+
 ![image](img/fwo.png) ![image](img/router.png)
 
 The B4RN installers will work with you to place this equipment in the best spot, making sure to minimize any disruption.
 
 NOTE: Images are for illustrative purposes only and the supplied equipment may differ.
 
-[More About The Installation Process](installation.md){ .md-button }
+[More About The Installation Process](installation/index.md){ .md-button }
 
 [Back to Top](#faqs-frequently-asked-questions)
 
@@ -166,6 +168,16 @@ It's important that any third party equipment, including mesh systems, are set u
 
 [Back to Top](#faqs-frequently-asked-questions)
 
+## I want to purchase a mesh system / extender - what should I buy?
+
+The first option we would recommend would be to go with B4RN's offering. The Nokia router which is being rolled out across out network has matching extenders which B4RN offer for a nominal fee per unit per month (currently £5). These are designed specifically to work with the Nokia router and integrate with the Nokia Wifi app which you use to manage your B4RN router.
+
+If you'd rather own the equipment then you should opt for wireless extenders which work in the 5Ghz range and use Wifi 6, older Wifi 5 extenders will not make the most of that ultrafast connection coming down the cable.
+
+We have a guide on extenders [here](tutorials/extenders/index.md) in which we cover a real world use case using [TP-Link Deco x55](https://amzn.to/3TAEaUZ) units which are ideally suited for use with the B4RN service. These are available from [Amazon.co.uk](https://amzn.to/3TAEaUZ) for £199.99 for a set of three which will easily cover most domestic properties. 
+
+[Back to Top](#faqs-frequently-asked-questions)
+
 ## I have specialst / industry-specific equipment connected to my existing broadband - will this still work?
 
 The short answer is "probably". It depends on how the equipment connects but if it's by cable (ethernet) or wifi then there is no reason at all why it would not work with the B4RN-provided router.
@@ -180,10 +192,12 @@ Yes - absolutely!
 ## Will my internet work during a powercut?
 By default, no, but this is no different to any other provider. The equipment used to connect to the network (the router) requires power, and during a powercut the router is off along with the rest of your house. There are however devices called UPSs (Uninterruptable Power Supplies) which are basically battery powered devices which you can connect the router to which will keep it alive for a short time during a power cut. There are a huge number of different UPS devices on the market, some of which are designed to keep more equipment (such as desktop computers) running during a powercut, others are designed just for broadband routers - an example of one of these is shown below and is available online for a small cost.
 
-The example shown below ([available from Amazon.co.uk](https://www.amazon.co.uk/Eaton-protect-Internet-assistants-controllers-White/dp/B092TG9M7C/)) plugs into the router and the power plugs into the UPS. In the case of a powercut, the battery keeps the router (and as such your internet) working for a period of time, hopefully enough time to see you through the powercut.
+The example shown below [available from Amazon.co.uk](https://amzn.to/4lgwpiW) plugs into the router and the power plugs into the UPS. In the case of a powercut, the battery keeps the router (and as such your internet) working for a period of time, hopefully enough time to see you through the powercut.
 
 ![image](img/ups1.jpg) ![image](img/ups2.jpg)
 
 If you also opt for the optional [B4RN Voice](https://b4rn.org.uk/support/b4rn-voice-faqs) service, this device will also allow you to make and receive calls during the powercut.
+
+Refer to our article on UPSs [here](tutorials/index.md) for further details.
 
 [Back to Top](#faqs-frequently-asked-questions)
