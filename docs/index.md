@@ -6,3 +6,5 @@ Welcome to the Grindleton & Sawley Project Hub. This is a volunteer-led project 
 Please feel free to browse the site and if you have any questions, you can [contact](contact.md) us for further information.
 
 [Grindleton is live!](news/posts/7.md){ .md-button }
+
+[Check out our new tutorials section!](tutorials/index.md)
