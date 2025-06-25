@@ -18,6 +18,8 @@ The below is based on personal experience of one device, others are available (s
 
 Click on the images below to enlage.
 
+| | |
+|-|-|
 | ![Image title](img/1.jpg){ width="300" } | ![Image title](img/2.jpg){ width="300" } |
 
 ### Other options (not tested by the author but work the same as the above)
