@@ -7,4 +7,4 @@ Please feel free to browse the site and if you have any questions, you can [cont
 
 [Grindleton is live!](news/posts/7.md){ .md-button }
 
-[Check out our new tutorials section!](tutorials/index.md)
+[Check out our new tutorials section!](tutorials/index.md){ .md-button }
